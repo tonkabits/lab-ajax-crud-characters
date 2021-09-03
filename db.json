@@ -27,13 +27,6 @@
       "weapon": "Positron Sniper Rifle (ポジトロンライフル)",
       "cartoon": "true",
       "id": 4
-    },
-    {
-      "name": "Test to delete",
-      "occupation": "Test to delete",
-      "weapon": "Test to delete",
-      "cartoon": "false",
-      "id": 5
     }
   ]
 }
